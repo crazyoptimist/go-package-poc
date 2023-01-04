@@ -1,3 +1,3 @@
-module github.com/crazyoptimist/go-package-poc
+module github.com/crazyoptimist/go_package_poc
 
 go 1.19
